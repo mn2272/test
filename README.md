@@ -1,5 +1,11 @@
-# Creating responsive tours and travel website
-Title: Creating a Responsive Tours and Travel Website using HTML, CSS, and Vanilla JavaScript
-Developed a fully responsive travel agency website using HTML, CSS, and vanilla JavaScript from scratch. The website features a responsive header/navbar with toggle menu bar effect, search bar, and login/register form. The home section has a responsive hero section with a video slider created using vanilla JavaScript. The website also includes a responsive book section, packages section, services section, gallery with hover effect section, review section with touch slider, contact section, brand section with touch slider, and a responsive footer section.
-Created a complete and responsive travel website design from scratch using HTML, CSS, and vanilla JavaScript. Successfully implemented advanced features like a video slider and touch slider for a seamless user experience. Used flexbox to make sections like book, packages, services, gallery, and review responsive. Improved my skills in front-end web development, particularly in creating responsive designs.
- 
+## A react based travel website where everything is a component starting from the Navbar and ending with footer.
+
+Props are also passed down from one component to another. BrowserRouter, Link, Switch, Route are used to navigate between components or should I say pages. I've also created the sub-pages and added some additional features like photo gallery with filter, etc. I've also used useState hook for state management and useEffect to re-render while user-interaction.
+
+### This project has features like: Carousel, Popup, Image zoom, mobile compatability, fetch data from external API endpoints, login and signup form and a lot more :)
+
+# Deployment Status: Successfull
+
+## Try this at:
+
+### Link: https://react-travel-website-chi.vercel.app/
